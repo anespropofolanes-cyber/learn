@@ -1,0 +1,13 @@
+{
+  "name": "國小學習地圖",
+  "short_name": "學習地圖",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12294d",
+  "theme_color": "#095ca8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
